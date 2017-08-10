@@ -1,0 +1,50 @@
+{
+  "name": "AppUser",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "firstName": {
+      "type": "string",
+      "required": true
+    },
+    "lastName": {
+      "type": "string",
+      "required": true
+    },
+    "email": {
+      "type": "string",
+      "required": true
+    },
+    "password": {
+      "type": "string",
+      "required": true
+    },
+    "age": {
+      "type": "number"
+    },
+    "date": {
+      "type": "date"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "isEula": {
+      "type": "boolean",
+      "required": true
+    },
+    "id": {
+      "type": "string",
+      "required": true
+    },
+    "isOwner": {
+      "type": "boolean"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

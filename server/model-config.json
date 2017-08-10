@@ -38,5 +38,25 @@
   "test": {
     "dataSource": "mongo",
     "public": true
+  },
+  "AppUser": {
+    "dataSource": "mongo",
+    "public": true
+  },
+  "Organization": {
+    "dataSource": "mongo",
+    "public": true
+  },
+  "Question": {
+    "dataSource": "mongo",
+    "public": true
+  },
+  "TestTaken": {
+    "dataSource": "mongo",
+    "public": true
+  },
+  "Answer": {
+    "dataSource": "mongo",
+    "public": true
   }
 }

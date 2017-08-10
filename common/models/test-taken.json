@@ -1,0 +1,53 @@
+{
+  "name": "TestTaken",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "userId": {
+      "type": "string",
+      "required": true
+    },
+    "testId": {
+      "type": "string",
+      "required": true
+    },
+    "date": {
+      "type": "date",
+      "required": true
+    },
+    "orgId": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string",
+      "required": true
+    },
+    "extraversion": {
+      "type": "number",
+      "required": true
+    },
+    "agreeableness": {
+      "type": "number",
+      "required": true
+    },
+    "conscientiousness": {
+      "type": "number",
+      "required": true
+    },
+    "emotionalStability": {
+      "type": "number",
+      "required": true
+    },
+    "intellect": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
