@@ -1,0 +1,60 @@
+{
+  "name": "test",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "description": {
+      "type": "string",
+      "required": true
+    },
+    "orgId": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "type": {
+      "type": "string",
+      "required": true
+    },
+    "style": {
+      "type": "string",
+      "required": true
+    },
+    "date": {
+      "type": "date"
+    },
+    "metric": {
+      "type": [
+        "string"
+      ],
+      "required": true
+    },
+    "min": {
+      "type": "number",
+      "required": true
+    },
+    "max": {
+      "type": "number",
+      "required": true
+    },
+    "id": {
+      "type": "string",
+      "required": true
+    },
+    "category": {
+      "type": [
+        "object"
+      ],
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
