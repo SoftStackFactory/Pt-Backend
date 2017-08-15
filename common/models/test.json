@@ -54,7 +54,18 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "TestTaken": {
+      "type": "hasMany",
+      "model": "TestTaken",
+      "foreignKey": "testId"
+    },
+    "Question": {
+      "type": "hasMany",
+      "model": "Question",
+      "foreignKey": "testId"
+    }
+  },
   "acls": [],
   "methods": {}
 }

@@ -24,7 +24,18 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "Test": {
+      "type": "hasMany",
+      "model": "test",
+      "foreignKey": "organizationId"
+    },
+    "TestTaken": {
+      "type": "hasMany",
+      "model": "TestTaken",
+      "foreignKey": "organizationId"
+    }
+  },
   "acls": [],
   "methods": {}
 }
