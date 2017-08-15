@@ -47,7 +47,13 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "answers": {
+      "type": "hasMany",
+      "model": "Answer",
+      "foreignKey": ""
+    }
+  },
   "acls": [],
   "methods": {}
 }

@@ -24,7 +24,18 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "tests": {
+      "type": "hasMany",
+      "model": "test",
+      "foreignKey": ""
+    },
+    "testTakens": {
+      "type": "hasMany",
+      "model": "TestTaken",
+      "foreignKey": ""
+    }
+  },
   "acls": [],
   "methods": {}
 }

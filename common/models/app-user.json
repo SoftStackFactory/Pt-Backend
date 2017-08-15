@@ -44,7 +44,18 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "organizations": {
+      "type": "hasOne",
+      "model": "Organization",
+      "foreignKey": ""
+    },
+    "testTakens": {
+      "type": "hasMany",
+      "model": "TestTaken",
+      "foreignKey": ""
+    }
+  },
   "acls": [],
   "methods": {}
 }
