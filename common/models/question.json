@@ -8,7 +8,7 @@
   "properties": {
     "testId": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "text": {
       "type": "string",
@@ -20,7 +20,7 @@
     },
     "multiplier": {
       "type": "number",
-      "required": true
+      "required": false
     },
     "weight": {
       "type": "number"
