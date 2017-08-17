@@ -10,10 +10,6 @@
       "type": "string",
       "required": true
     },
-    "testId": {
-      "type": "string",
-      "required": true
-    },
     "date": {
       "type": "date",
       "required": true
@@ -48,10 +44,17 @@
   },
   "validations": [],
   "relations": {
+<<<<<<< HEAD
     "answers": {
       "type": "hasMany",
       "model": "Answer",
       "foreignKey": ""
+=======
+    "Answer": {
+      "type": "hasMany",
+      "model": "Answer",
+      "foreignKey": "testTakenId"
+>>>>>>> c089b4da521cb8db18da6120fc6d3d1b5c46c18c
     }
   },
   "acls": [],

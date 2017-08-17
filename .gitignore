@@ -17,4 +17,8 @@
 coverage
 node_modules
 npm-debug.log
+<<<<<<< HEAD
 data/
+=======
+data
+>>>>>>> c089b4da521cb8db18da6120fc6d3d1b5c46c18c

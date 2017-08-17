@@ -25,10 +25,22 @@
   },
   "validations": [],
   "relations": {
+<<<<<<< HEAD
     "testTakens": {
       "type": "hasMany",
       "model": "TestTaken",
       "foreignKey": ""
+=======
+    "Test": {
+      "type": "hasMany",
+      "model": "test",
+      "foreignKey": "organizationId"
+    },
+    "TestTaken": {
+      "type": "hasMany",
+      "model": "TestTaken",
+      "foreignKey": "organizationId"
+>>>>>>> c089b4da521cb8db18da6120fc6d3d1b5c46c18c
     }
   },
   "acls": [],

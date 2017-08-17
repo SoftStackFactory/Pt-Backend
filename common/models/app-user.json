@@ -45,6 +45,7 @@
   },
   "validations": [],
   "relations": {
+<<<<<<< HEAD
     "organizations": {
       "type": "hasOne",
       "model": "Organization",
@@ -54,6 +55,17 @@
       "type": "hasMany",
       "model": "TestTaken",
       "foreignKey": ""
+=======
+    "testTakens": {
+      "type": "hasMany",
+      "model": "TestTaken",
+      "foreignKey": "userId"
+    },
+    "Organization": {
+      "type": "hasOne",
+      "model": "Organization",
+      "foreignKey": "userId"
+>>>>>>> c089b4da521cb8db18da6120fc6d3d1b5c46c18c
     }
   },
   "acls": [],
