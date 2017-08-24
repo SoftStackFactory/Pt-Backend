@@ -25,8 +25,9 @@
     "weight": {
       "type": "number"
     },
-    "key": {
-      "type": "number"
+    "keyed": {
+      "type": "boolean",
+      "required": true
     },
     "id": {
       "type": "string",
