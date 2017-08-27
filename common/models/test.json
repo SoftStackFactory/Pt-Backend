@@ -55,17 +55,6 @@
   },
   "validations": [],
   "relations": {
-<<<<<<< HEAD
-    "testTakens": {
-      "type": "hasMany",
-      "model": "TestTaken",
-      "foreignKey": ""
-    },
-    "questions": {
-      "type": "hasMany",
-      "model": "Question",
-      "foreignKey": ""
-=======
     "TestTaken": {
       "type": "hasMany",
       "model": "TestTaken",
@@ -75,7 +64,6 @@
       "type": "hasMany",
       "model": "Question",
       "foreignKey": "testId"
->>>>>>> c089b4da521cb8db18da6120fc6d3d1b5c46c18c
     }
   },
   "acls": [],
