@@ -25,6 +25,14 @@
     "id": {
       "type": "string",
       "required": true
+    },
+    "keyed": {
+      "type": "boolean",
+      "required": true
+    },
+    "category": {
+      "type": "string",
+      "required": true
     }
   },
   "validations": [],
