@@ -5,7 +5,11 @@
   "options": {
     "validateUpsert": true
   },
-  "properties": {
+  "properties": {,
+    "name": {
+      "type": "string",
+      "required": true
+    },
     "userId": {
       "type": "string",
       "required": true
