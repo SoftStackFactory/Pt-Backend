@@ -21,23 +21,23 @@
       "type": "string",
       "required": true
     },
-    "extraversion": {
+    "Extraversion": {
       "type": "number",
       "required": true
     },
-    "agreeableness": {
+    "Agreeableness": {
       "type": "number",
       "required": true
     },
-    "conscientiousness": {
+    "Conscientiousness": {
       "type": "number",
       "required": true
     },
-    "emotionalStability": {
+    "Emotional Stability": {
       "type": "number",
       "required": true
     },
-    "intellect": {
+    "Intellect": {
       "type": "number",
       "required": true
     }
