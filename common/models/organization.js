@@ -11,6 +11,8 @@ module.exports = function(Organization) {
         
         console.log("New Organization request email sent");
         
+        response: 'New Organization request email sent';
+        
         
     };
     
@@ -18,14 +20,16 @@ module.exports = function(Organization) {
     'request', {
       http: {
         path: '/request',
+        /*
         accepts: [{arg: 'userId', type: 'string' }, 
             { arg: 'name', type: 'string' },
             { arg: 'website', type: 'string' }],
+        */
         verb: 'post'
       },
       returns: {
         
-        arg: 'status',
+        arg: 'request',
         type: 'string'
       }
     }
