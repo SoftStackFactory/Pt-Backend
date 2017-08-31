@@ -5,14 +5,19 @@ var mailgun = require('../../mailgun/orgRequest.js');
 
 module.exports = function(Organization) {
     
-    Organization.request = function(userId, name, website, cb) {
+    //Organization.request = function(userId, name, website, cb) {
+        //mailgun.sendEmail(userId, name, website);
+    Organization.request = function (cb) {    
         
-        mailgun.sendEmail(userId, name, website);
+        var response;
+        
+        mailgun.sendEmail();
         
         console.log("New Organization request email sent");
         
         response: 'New Organization request email sent';
         
+        cb(null, response);
         
     };
     
