@@ -4,9 +4,11 @@ module.exports = function(app) {
   var Question = app.models.Question;
   // var Answer = app.models.Answer;
   // var TestTaken = app.models.TestTaken;
+  var AppUser = app.models.AppUser;
 
   // Answer.destroyAll();
   // TestTaken.destroyAll();
+  AppUser.destroyAll();
   
   Question.destroyAll();
   Question.upsert(jsonArr, (err, obj) => {
