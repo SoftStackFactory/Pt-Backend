@@ -8,6 +8,8 @@
     "port": 0,
     "url": "mongodb://ssfuser2017:Pedro2017@ds064198.mlab.com:64198/personatest",
     "name": "mongo",
-    "connector": "mongodb"
+    "connector": "mongodb",
+    "username": "ssfuser2017",
+    "password": "Pedro2017"
   }
 }
