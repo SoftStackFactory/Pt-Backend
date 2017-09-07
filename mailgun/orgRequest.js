@@ -21,7 +21,8 @@ let users =
     
 
 //exports.sendEmail = function( userId, name, website ) {
-exports.sendEmail = function() {
+//exports.sendEmail = function() {
+exports.sendEmail = function( userId, name, website ) {
     Request.post({
         url:Url, 
         formData: {
@@ -30,7 +31,8 @@ exports.sendEmail = function() {
             to: Emails,
             subject:'New Organization Request: ' + new Date().toISOString(),
             //text:userId + ' ' + name + ' ' + website
-            text: 'test of new organization request'
+            text: 'New organization request submited by ' + userId + ' for ' +
+                name + ' at ' + website
         }
     }, 
     function(err, httpResponse, body) {
