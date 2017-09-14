@@ -1,5 +1,9 @@
 module.exports = function(app) {
-  var jsonArr = require('../questions.json');
+  var jsonArr = 
+    [
+      (require('../questions.json')), 
+      (require('../questions-pedro.json'))
+    ];
   console.log('app.models.Question', app.models.Question);
   var Question = app.models.Question;
   // var Answer = app.models.Answer;
