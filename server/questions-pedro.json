@@ -8,7 +8,31 @@
 },
 {
     "keyed": true,
+    "text": "Feel comfortable around people.",
+    "category": "Extraversion",
+    "testId": "59b74dc731996f18c21aad0f"
+},
+{
+    "keyed": true,
+    "text": "Start conversations.",
+    "category": "Extraversion",
+    "testId": "59b74dc731996f18c21aad0f"
+},
+{
+    "keyed": true,
     "text": "Am interested in people.",
+    "category": "Agreeableness",
+    "testId": "59b74dc731996f18c21aad0f"
+},
+{
+    "keyed": true,
+    "text": "Sympathize with others' feelings.",
+    "category": "Agreeableness",
+    "testId": "59b74dc731996f18c21aad0f"
+},
+{
+    "keyed": true,
+    "text": "Have a soft heart.",
     "category": "Agreeableness",
     "testId": "59b74dc731996f18c21aad0f"
 },
@@ -20,13 +44,49 @@
 },
 {
     "keyed": true,
+    "text": "Pay attention to details.",
+    "category": "Conscientiousness",
+    "testId": "59b74dc731996f18c21aad0f"
+},
+{
+    "keyed": true,
+    "text": "Get chores done right away.",
+    "category": "Conscientiousness",
+    "testId": "59b74dc731996f18c21aad0f"
+},
+{
+    "keyed": true,
     "text": "Am relaxed most of the time.",
     "category": "Emotional Stability",
     "testId": "59b74dc731996f18c21aad0f"
 },
 {
     "keyed": true,
+    "text": "Seldom feel blue.",
+    "category": "Emotional Stability",
+    "testId": "59b74dc731996f18c21aad0f"
+},
+{
+    "keyed": false,
+    "text": "Get stressed out easily.",
+    "category": "Emotional Stability",
+    "testId": "59b74dc731996f18c21aad0f"
+},
+{
+    "keyed": true,
     "text": "Have a rich vocabulary.",
+    "category": "Intellect",
+    "testId": "59b74dc731996f18c21aad0f"
+},
+{
+    "keyed": true,
+    "text": "Have a vivid imagination.",
+    "category": "Intellect",
+    "testId": "59b74dc731996f18c21aad0f"
+},
+{
+    "keyed": true,
+    "text": "Have excellent ideas.",
     "category": "Intellect",
     "testId": "59b74dc731996f18c21aad0f"
 }
