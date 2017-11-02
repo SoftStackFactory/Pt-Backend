@@ -12,7 +12,7 @@ module.exports = function(app) {
   // Answer.destroyAll();
   // TestTaken.destroyAll();
   
-  Question.destroyAll();
+  // Question.destroyAll();
   Question.upsert(jsonArr, (err, obj) => {
     if (err) {
       return console.log(err);
