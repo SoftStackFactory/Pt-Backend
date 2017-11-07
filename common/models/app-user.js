@@ -32,7 +32,7 @@ module.exports = function(Appuser) {
                     include:[{
                         relation: 'testTakens',
                             scope: {
-                                fields: ['name', 'userId', 'date', 'orgId', 'id'],
+                                fields: ['name', 'userId', 'date', 'orgId', 'id', 'testId'],
                                 include:{
                                     relation: 'Answer',
                                     scope: {
