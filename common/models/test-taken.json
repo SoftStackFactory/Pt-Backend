@@ -25,24 +25,10 @@
       "type": "string",
       "required": true
     },
-    "Extraversion": {
-      "type": "number",
-      "required": true
-    },
-    "Agreeableness": {
-      "type": "number",
-      "required": true
-    },
-    "Conscientiousness": {
-      "type": "number",
-      "required": true
-    },
-    "Emotional Stability": {
-      "type": "number",
-      "required": true
-    },
-    "Intellect": {
-      "type": "number",
+    "category": {
+      "type": [
+        "object"
+      ],
       "required": true
     }
   },
