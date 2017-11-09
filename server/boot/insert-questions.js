@@ -5,7 +5,8 @@ module.exports = function(app) {
       (require('../questions-pedro.json')),
       (require('../questions-catell.json'))
     ];
-  console.log('app.models.Question', app.models.Question);
+    console.log('jsonArr', jsonArr);
+  // console.log('app.models.Question', app.models.Question);
   var Question = app.models.Question;
   // var Answer = app.models.Answer;
   // var TestTaken = app.models.TestTaken;
