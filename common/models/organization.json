@@ -28,12 +28,12 @@
     "Test": {
       "type": "hasMany",
       "model": "test",
-      "foreignKey": "organizationId"
+      "foreignKey": "orgId"
     },
     "TestTaken": {
       "type": "hasMany",
       "model": "TestTaken",
-      "foreignKey": "organizationId"
+      "foreignKey": "orgId"
     }
   },
   "acls": [],

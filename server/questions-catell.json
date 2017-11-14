@@ -1,0 +1,990 @@
+[{
+		"keyed": true,
+		"text": "Know how to comfort others.",
+		"category": "Warmth",
+		"testId": "59b7613c31996f18c21aad10"
+
+	},
+	{
+		"keyed": true,
+		"text": "Enjoy bringing people together.",
+		"category": "Warmth",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Feel others' emotions.",
+		"category": "Warmth",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Take an interest in other people's lives.",
+		"category": "Warmth",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Cheer people up.",
+		"category": "Warmth",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Make people feel at ease.",
+		"category": "Warmth",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Take time out for others.",
+		"category": "Warmth",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Don't like to get involved in other people's problems.",
+		"category": "Warmth",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am not really interested in others.",
+		"category": "Warmth",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Try not to think about the needy.",
+		"category": "Warmth",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Know how to comfort others.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+
+	},
+	{
+		"keyed": true,
+		"text": "Make insightful remarks.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Know the answers to many questions.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Tend to analyze things.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Use my brain.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Learn quickly.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Counter others' arguments.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Reflect on things before acting.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Weigh the pros against the cons.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Consider myself an average person.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Get confused easily.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Know that I am not a special person.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Have a poor vocabulary.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Skip difficult words while reading.",
+		"category": "Intellect",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Seldom feel blue.",
+		"category": "Emotional Stability",
+		"testId": "59b7613c31996f18c21aad10"
+
+	},
+	{
+		"keyed": true,
+		"text": "Feel comfortable with myself.",
+		"category": "Emotional Stability",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Readily overcome setbacks.",
+		"category": "Emotional Stability",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am relaxed most of the time.",
+		"category": "Emotional Stability",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am not easily frustrated.",
+		"category": "Emotional Stability",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Have frequent mood swings.",
+		"category": "Emotional Stability",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Often feel blue.",
+		"category": "Emotional Stability",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Dislike myself.",
+		"category": "Emotional Stability",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Feel desperate.",
+		"category": "Emotional Stability",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am easily discouraged.",
+		"category": "Emotional Stability",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Take charge.",
+		"category": "Assertiveness",
+		"testId": "59b7613c31996f18c21aad10"
+
+	},
+	{
+		"keyed": true,
+		"text": "Want to be in charge.",
+		"category": "Assertiveness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Say what I think.",
+		"category": "Assertiveness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am not afraid of providing criticism.",
+		"category": "Assertiveness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Take control of things.",
+		"category": "Assertiveness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Can take strong measures.",
+		"category": "Assertiveness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Wait for others to lead the way.",
+		"category": "Assertiveness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Never challenge things.",
+		"category": "Assertiveness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Let others make the decisions.",
+		"category": "Assertiveness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Let myself be pushed around.",
+		"category": "Assertiveness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am the life of the party.",
+		"category": "Gregariousness",
+		"testId": "59b7613c31996f18c21aad10"
+
+	},
+	{
+		"keyed": true,
+		"text": "Love large parties.",
+		"category": "Gregariousness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Joke around a lot.",
+		"category": "Gregariousness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Enjoy being part of a loud crowd.",
+		"category": "Gregariousness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Amuse my friends.",
+		"category": "Gregariousness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Act wild and crazy.",
+		"category": "Gregariousness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Seldom joke around.",
+		"category": "Gregariousness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Don't like crowded events.",
+		"category": "Gregariousness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am the last to laugh at a joke.",
+		"category": "Gregariousness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Dislike loud music.",
+		"category": "Gregariousness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Believe laws should be strictly enforced.",
+		"category": "Dutifulness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Try to follow the rules.",
+		"category": "Dutifulness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Believe in one true religion.",
+		"category": "Dutifulness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Respect authority.",
+		"category": "Dutifulness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Like to stand during the national anthem..",
+		"category": "Dutifulness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Resist authority.",
+		"category": "Dutifulness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Break rules.",
+		"category": "Dutifulness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Use swear words.",
+		"category": "Dutifulness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Oppose authority.",
+		"category": "Dutifulness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Know how to get around the rules.",
+		"category": "Dutifulness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Feel comfortable around people.",
+		"category": "Friendliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Talk to a lot of different people at parties.",
+		"category": "Friendliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Don't mind being the center of attention.",
+		"category": "Friendliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Make friends easily.",
+		"category": "Friendliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Start conversations",
+		"category": "Friendliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Leave my belongings around.",
+		"category": "Friendliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Find it difficult to approach others.",
+		"category": "Friendliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Often feel uncomfortable around others.",
+		"category": "Friendliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Have little to say.",
+		"category": "Friendliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am quiet around strangers.",
+		"category": "Friendliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Keep in the background.",
+		"category": "Friendliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Like to read.",
+		"category": "Sensitivity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Enjoy discussing movies and books with others.",
+		"category": "Sensitivity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Read a lot.",
+		"category": "Sensitivity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Don't like action movies.",
+		"category": "Sensitivity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Cry during movies.",
+		"category": "Sensitivity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Do not enjoy watching dance performances.",
+		"category": "Sensitivity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Do not like poetry.",
+		"category": "Sensitivity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Dislike works of fiction.",
+		"category": "Sensitivity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Rarely notice my emotional reactions.",
+		"category": "Sensitivity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Find it hard to forgive others.",
+		"category": "Distrust",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Suspect hidden motives in others.",
+		"category": "Distrust",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am wary of others.",
+		"category": "Distrust",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Distrust people.",
+		"category": "Distrust",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Believe that people seldom tell you the whole truth.",
+		"category": "Distrust",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Believe that people are essentially evil.",
+		"category": "Distrust",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Trust what people say.",
+		"category": "Distrust",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Trust others.",
+		"category": "Distrust",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Believe that others have good intentions.",
+		"category": "Distrust",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Believe that people are basically moral.",
+		"category": "Distrust",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Do things that others find strange.",
+		"category": "Imagination",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Like to get lost in thought.",
+		"category": "Imagination",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Enjoy wild flights of fantasy.",
+		"category": "Imagination",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Love to daydream.",
+		"category": "Imagination",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Swim against the current.",
+		"category": "Imagination",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Take deviant positions.",
+		"category": "Imagination",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Do unexpected things.",
+		"category": "Imagination",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Do things by the book.",
+		"category": "Imagination",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Seldom daydream.",
+		"category": "Imagination",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Seldom get lost in thought.",
+		"category": "Imagination",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Reveal little about myself.",
+		"category": "Reserve",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am hard to get to know.",
+		"category": "Reserve",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Don't talk a lot.",
+		"category": "Reserve",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Bottle up my feelings.",
+		"category": "Reserve",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Keep my thoughts to myself.",
+		"category": "Reserve",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am open about myself to others.",
+		"category": "Reserve",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am open about my feelings.",
+		"category": "Reserve",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Disclose my intimate thoughts.",
+		"category": "Reserve",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Show my feelings.",
+		"category": "Reserve",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am willing to talk about myself.",
+		"category": "Reserve",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am afraid that I will do the wrong thing.",
+		"category": "Anxiety",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Feel threatened easily.",
+		"category": "Anxiety",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am easily hurt.",
+		"category": "Anxiety",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Worry about things.",
+		"category": "Anxiety",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Spend time thinking about past mistakes.",
+		"category": "Anxiety",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Feel guilty when I say no.",
+		"category": "Anxiety",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Feel crushed by setbacks.",
+		"category": "Anxiety",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Don't worry about things that have already happened.",
+		"category": "Anxiety",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am not easily bothered by things.",
+		"category": "Anxiety",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Don't let others discourage me.",
+		"category": "Anxiety",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Believe in the importance of art.",
+		"category": "Complexity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Love to think up new ways of doing things.",
+		"category": "Complexity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Enjoy hearing new ideas.",
+		"category": "Complexity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Carry the conversation to a higher level.",
+		"category": "Complexity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Prefer variety to routine.",
+		"category": "Complexity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Avoid philosophical discussions.",
+		"category": "Complexity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Rarely look for a deeper meaning in things.",
+		"category": "Complexity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am not interested in theoretical discussions.",
+		"category": "Complexity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am not interested in abstract ideas.",
+		"category": "Complexity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Try to avoid complex people.",
+		"category": "Complexity",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Want to be left alone.",
+		"category": "Introversion",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Prefer to do things by myself.",
+		"category": "Introversion",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Enjoy spending time by myself.",
+		"category": "Introversion",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Seek quiet.",
+		"category": "Introversion",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Don't mind eating alone.",
+		"category": "Introversion",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Enjoy silence.",
+		"category": "Introversion",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Enjoy my privacy.",
+		"category": "Introversion",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Enjoy being part of a group.",
+		"category": "Introversion",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Enjoy teamwork.",
+		"category": "Introversion",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Can't do without the company of others.",
+		"category": "Introversion",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Want everything to be just right.",
+		"category": "Orderliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Get chores done right away.",
+		"category": "Orderliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Like order.",
+		"category": "Orderliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Continue until everything is perfect.",
+		"category": "Orderliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am exacting in my work.",
+		"category": "Orderliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am not bothered by messy people.",
+		"category": "Orderliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am not bothered by disorder.",
+		"category": "Orderliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Leave a mess in my room.",
+		"category": "Orderliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Leave my belongings around",
+		"category": "Orderliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Put off unpleasant tasks.",
+		"category": "Orderliness",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Get irritated easily.",
+		"category": "Emotionality",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Get angry easily.",
+		"category": "Emotionality",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am quick to judge others.",
+		"category": "Emotionality",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am annoyed by others' mistakes.",
+		"category": "Emotionality",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Am easily put out.",
+		"category": "Emotionality",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Can't stand being contradicted.",
+		"category": "Emotionality",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": true,
+		"text": "Judge people by their appearance.",
+		"category": "Emotionality",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Am not easily annoyed.",
+		"category": "Emotionality",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Try to forgive and forget.",
+		"category": "Emotionality",
+		"testId": "59b7613c31996f18c21aad10"
+	},
+	{
+		"keyed": false,
+		"text": "Have a good word for everyone.",
+		"category": "Emotionality",
+		"testId": "59b7613c31996f18c21aad10"
+	}
+]
