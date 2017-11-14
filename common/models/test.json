@@ -42,10 +42,6 @@
       "type": "number",
       "required": true
     },
-    "id": {
-      "type": "string",
-      "required": true
-    },
     "category": {
       "type": [
         "object"
