@@ -2,7 +2,6 @@
 
 var mailgun = require('../../mailgun/orgRequest.js');
 
-
 module.exports = function(Organization) {
     
     Organization.request = function( userId, name, website, cb) {
@@ -26,7 +25,6 @@ module.exports = function(Organization) {
           { arg: 'name', type: 'string' },
           { arg: 'website', type: 'string' }],
         
-      //accepts: { arg: 'website', type: 'string'},
       returns: {
         arg: 'request',
         type: 'string'

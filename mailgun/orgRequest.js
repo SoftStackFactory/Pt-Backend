@@ -19,9 +19,6 @@ let users =
             { "first": "Maren" }
     }
     
-
-//exports.sendEmail = function( userId, name, website ) {
-//exports.sendEmail = function() {
 exports.sendEmail = function( userId, name, website ) {
     Request.post({
         url:Url, 
@@ -30,7 +27,6 @@ exports.sendEmail = function( userId, name, website ) {
             from:'Excited User <mailgun@mg.idsentral.com>',
             to: Emails,
             subject:'New Organization Request: ' + new Date().toISOString(),
-            //text:userId + ' ' + name + ' ' + website
             text: 'New organization request submited by ' + userId + ' for ' +
                 name + ' at ' + website
         }
