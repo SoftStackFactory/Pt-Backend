@@ -1,0 +1,428 @@
+[{
+		"keyed": true,
+		"text": "Am open about my feelings.",
+		"category": "Extraversion",
+		"testId": "5a0bd94a690b91752c105b29"
+
+	},
+	{
+		"keyed": true,
+		"text": "Take charge.",
+		"category": "Extraversion",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Talk to a lot of different people at parties.",
+		"category": "Extraversion",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Make friends easily.",
+		"category": "Extraversion",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Never at a loss for words.",
+		"category": "Extraversion",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Don't talk a lot.",
+		"category": "Extraversion",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Keep in the background.",
+		"category": "Extraversion",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Speak softly.",
+		"category": "Extraversion",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Have difficulty expressing my feelings.",
+		"category": "Extraversion",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Hold back my opinions.",
+		"category": "Extraversion",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Feel others' emotions.",
+		"category": "Agreeableness",
+		"testId": "5a0bd94a690b91752c105b29"
+
+	},
+	{
+		"keyed": true,
+		"text": "Have a soft heart.",
+		"category": "Agreeableness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Sympathize with others' feelings.",
+		"category": "Agreeableness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Am concerned about others.",
+		"category": "Agreeableness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Make people feel at ease.",
+		"category": "Agreeableness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Insult people.",
+		"category": "Agreeableness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Put people under pressure.",
+		"category": "Agreeableness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Take advantage of others.",
+		"category": "Agreeableness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Am not interested in other people's problems.",
+		"category": "Agreeableness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Find fault with everything.",
+		"category": "Agreeableness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Do things by the book.",
+		"category": "Conscientiousness",
+		"testId": "5a0bd94a690b91752c105b29"
+
+	},
+	{
+		"keyed": true,
+		"text": "Try to follow the rules.",
+		"category": "Conscientiousness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Believe laws should be strictly enforced.",
+		"category": "Conscientiousness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Pay attention to details.",
+		"category": "Conscientiousness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Like order.",
+		"category": "Conscientiousness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Act wild and crazy.",
+		"category": "Conscientiousness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Break rules.",
+		"category": "Conscientiousness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Jump into things without thinking.",
+		"category": "Conscientiousness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Do things in a half-way manner.",
+		"category": "Conscientiousness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Do crazy things.",
+		"category": "Conscientiousness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Seldom feel blue.",
+		"category": "Emotional Stability",
+		"testId": "5a0bd94a690b91752c105b29"
+
+	},
+	{
+		"keyed": true,
+		"text": "Am relaxed most of the time.",
+		"category": "Emotional Stability",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Feel comfortable with myself.",
+		"category": "Emotional Stability",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Am not easily bothered by things.",
+		"category": "Emotional Stability",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Take things as they come.",
+		"category": "Emotional Stability",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Often feel blue.",
+		"category": "Emotional Stability",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Am often down in the dumps.",
+		"category": "Emotional Stability",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Get stressed out easily.",
+		"category": "Emotional Stability",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Have frequent mood swings.",
+		"category": "Emotional Stability",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Feel desperate.",
+		"category": "Emotional Stability",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Have excellent ideas.",
+		"category": "Intellect",
+		"testId": "5a0bd94a690b91752c105b29"
+
+	},
+	{
+		"keyed": true,
+		"text": "Quick to understand things.",
+		"category": "Intellect",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Have a rich vocabulary.",
+		"category": "Intellect",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Use my brain.",
+		"category": "Intellect",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Carry the conversation to a higher level.",
+		"category": "Intellect",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Am not interested in abstract ideas.",
+		"category": "Intellect",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Have difficulty understanding abstract ideas.",
+		"category": "Intellect",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Try to avoid complex people.",
+		"category": "Intellect",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Will not probe deeply into a subject.",
+		"category": "Intellect",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Avoid difficult reading material.",
+		"category": "Intellect",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Keep myself well-groomed.",
+		"category": "Attractiveness",
+		"testId": "5a0bd94a690b91752c105b29"
+
+	},
+	{
+		"keyed": true,
+		"text": "Like to tidy up.",
+		"category": "Attractiveness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Get things done quickly.",
+		"category": "Attractiveness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Believe that I am important.",
+		"category": "Attractiveness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Keep improving myself.",
+		"category": "Attractiveness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Don't care about dressing nicely.",
+		"category": "Attractiveness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Know that I am not a special person.",
+		"category": "Attractiveness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Don't like to get dressed up.",
+		"category": "Attractiveness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Pay no attention to my appearance.",
+		"category": "Attractiveness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": false,
+		"text": "Am not highly motivated to succeed.",
+		"category": "Attractiveness",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Copy others.",
+		"category": "Negative Valence",
+		"testId": "5a0bd94a690b91752c105b29"
+
+	},
+	{
+		"keyed": true,
+		"text": "Demand attention.",
+		"category": "Negative Valence",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Try to impress others.",
+		"category": "Negative Valence",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Need the approval of others.",
+		"category": "Negative Valence",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Conform to others' opinions.",
+		"category": "Negative Valence",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Change myself to suit others.",
+		"category": "Negative Valence",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Talk mainly about myself.",
+		"category": "Negative Valence",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Interfere in other people's business.",
+		"category": "Negative Valence",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Want to be told I am right.",
+		"category": "Negative Valence",
+		"testId": "5a0bd94a690b91752c105b29"
+	},
+	{
+		"keyed": true,
+		"text": "Want to prove myself.",
+		"category": "Negative Valence",
+		"testId": "5a0bd94a690b91752c105b29"
+	}
+]

@@ -1,9 +1,11 @@
 module.exports = function(app) {
   var jsonArr = 
     [
-      (require('../questions.json')), 
-      (require('../questions-pedro.json')),
-      (require('../questions-catell.json'))
+      (require('../questions/questions.json')), 
+      (require('../questions/questions-pedro.json')),
+      (require('../questions/questions-catell.json')),
+      (require('../questions/questions-mini.json')),
+      (require('../questions/questions-7factor.json'))
     ];
   // console.log('app.models.Question', app.models.Question);
   var Question = app.models.Question;

@@ -1,0 +1,123 @@
+[{
+		"keyed": true,
+		"text": "Am the life of the party.",
+		"category": "Extraversion",
+		"testId": "5a074006303ea343ad7408c1"
+
+	},
+	{
+		"keyed": true,
+		"text": "Talk to a lot of different people at parties.",
+		"category": "Extraversion",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": false,
+		"text": "Don't talk a lot.",
+		"category": "Extraversion",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": false,
+		"text": "Keep in the background.",
+		"category": "Extraversion",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": true,
+		"text": "Sympathize with others' feelings.",
+		"category": "Agreeableness",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": true,
+		"text": "Feel others' emotions.",
+		"category": "Agreeableness",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": false,
+		"text": "Am not really interested in others.",
+		"category": "Agreeableness",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": false,
+		"text": "Don't like to get involved in other people's problems.",
+		"category": "Agreeableness",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": true,
+		"text": "Get chores done right away.",
+		"category": "Conscientiousness",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": true,
+		"text": "Like order.",
+		"category": "Conscientiousness",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": false,
+		"text": "Often forget to put things back in their proper place.",
+		"category": "Conscientiousness",
+		"testId": "5a074006303ea343ad7408c1"
+
+	},
+	{
+		"keyed": false,
+		"text": "Make a mess of things.",
+		"category": "Conscientiousness",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": true,
+		"text": "Have frequent mood swings.",
+		"category": "Neuroticism",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": true,
+		"text": "Get upset easily.",
+		"category": "Neuroticism",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": false,
+		"text": "Am relaxed most of the time.",
+		"category": "Neuroticism",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": false,
+		"text": "Seldom feel blue.",
+		"category": "Neuroticism",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": true,
+		"text": "Have a vivid imagination.",
+		"category": "Intellect",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": false,
+		"text": "Have difficulty understanding abstract ideas.",
+		"category": "Intellect",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": false,
+		"text": "Am not interested in abstract ideas.",
+		"category": "Intellect",
+		"testId": "5a074006303ea343ad7408c1"
+	},
+	{
+		"keyed": false,
+		"text": "Am not interested in abstract ideas.",
+		"category": "Intellect",
+		"testId": "5a074006303ea343ad7408c1"
+	}
+]
